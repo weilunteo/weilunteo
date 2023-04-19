@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - ⚡ I like to travel and take part in adventure/extreme sports
 - 📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/weilunteo/" target=”_blank” rel=”noreferrer”>Linkedin</a> :D
 
-
 ### Skills 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  /> </a>
@@ -41,3 +40,11 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weilunteo&theme=tokyonight&card_width=450)](https://git.io/streak-stats)
 <br>
+
+### Others
+<table>
+  <tr>
+    <td>You are visitor:</td>
+    <td><img src="https://profile-counter.glitch.me/weilunteo/count.svg" alt="" /></td>
+  </tr>
+</table>
