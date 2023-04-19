@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there! 👋 
+
+![](https://komarev.com/ghpvc/?username=weilunteo&style=plastic&color=blue)
+
 - 😄 I'm an Information Systems student at Singapore Management University
 - 🌱 Currently learning more about data science and front-end development
 - ⚡ I like to travel and take part in adventure/extreme sports
-- 📫 Feel free to reach out to me on <a href="https://www.linkedin.com/in/weilunteo/" target=”_blank” rel=”noreferrer”>Linkedin</a> :D
+- 📫 Feel free to reach out to me via <a href="https://www.linkedin.com/in/weilunteo/" target=”_blank” rel=”noreferrer”>Linkedin</a>
 
 ### Skills 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -40,11 +43,3 @@ Here are some ideas to get you started:
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weilunteo&theme=tokyonight&card_width=450)](https://git.io/streak-stats)
 <br>
-
-### Others
-<table>
-  <tr>
-    <td>You are visitor:</td>
-    <td><img src="https://profile-counter.glitch.me/weilunteo/count.svg" alt="" /></td>
-  </tr>
-</table>
