@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there! 👋
+- 😄 Currently an Information Systems student at SMU
+- 🌱 Interested in data science and front-end development
 <!--
 **weilunteo/weilunteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=weilunteo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weilunteo&theme=tokyonight&card_width=450)](https://git.io/streak-stats)
+<br>
