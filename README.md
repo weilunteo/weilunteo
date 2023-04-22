@@ -13,14 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there! 👋 
+### Hi, I'm Wei Lun! 👋 
 
 ![](https://komarev.com/ghpvc/?username=weilunteo&style=plastic&color=blue)
+- 😄 I'm interested in data science and front-end development
+- 🔭 I’m currently working on codes
+- 🌱 I’m currently learning how to code
+- 👯 I’m looking to collaborate on coding
+- 🤔 I’m looking for help with coding
+- 💬 Ask me about coding
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/weilunteo/" target=”_blank” rel=”noreferrer”>Linkedin</a>
+- ⚡ Fun fact: I like to travel and do adventure/extreme sports
 
-- 😄 I'm an Information Systems student at Singapore Management University
-- 🌱 Currently learning more about data science and front-end development
-- ⚡ I like to travel and take part in adventure/extreme sports
-- 📫 Feel free to reach out to me via <a href="https://www.linkedin.com/in/weilunteo/" target=”_blank” rel=”noreferrer”>Linkedin</a>
+---
 
 ### Skills 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -37,6 +42,7 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
+---
 
 ### Statistics 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=weilunteo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
