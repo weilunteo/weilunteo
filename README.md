@@ -45,7 +45,5 @@ Here are some ideas to get you started:
 ---
 
 ### Statistics 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=weilunteo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=weilunteo&theme=tokyonight&card_width=450)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br>
